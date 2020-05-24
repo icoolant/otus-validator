@@ -1,0 +1,12 @@
+{
+    "name": "otus/mivanov",
+    "description": "Test",
+    "type": "library",
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "Otus\\": "src/Otus"
+        }
+    }
+}
